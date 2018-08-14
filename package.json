@@ -1,0 +1,6 @@
+{ 
+	"license": "(MIT OR Apache-2.0)",
+	"scripts": {
+		"start": "node hello-world.js"
+	}
+}
